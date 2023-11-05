@@ -1,6 +1,6 @@
 {
     "name": "prometheus-client-c",
-    "keywords": "oled, pled, display, driver, i2cdevlib, i2c",
+    "keywords": "",
     "description": "prometheus client",
     "repository":
     {
