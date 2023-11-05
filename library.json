@@ -13,6 +13,9 @@
     "build": {
         "scrDir": "./prom/src",
         "includeDir": "./prom/include"
+    },
+    "export": {
+        "exclude": "prom/test"
     }
   }
   
