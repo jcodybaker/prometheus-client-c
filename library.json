@@ -10,7 +10,7 @@
     "frameworks": "espidf",
     "platforms": "espressif32",
     "build": {
-        "scrDir": "./prom/src",
+        "srcDir": "./prom/src",
         "includeDir": "./prom/include"
     },
     "export": {
