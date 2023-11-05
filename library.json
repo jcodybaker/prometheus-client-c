@@ -1,0 +1,18 @@
+{
+    "name": "prometheus-client-c",
+    "keywords": "oled, pled, display, driver, i2cdevlib, i2c",
+    "description": "prometheus client",
+    "include": "prom",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/jcodybaker/prometheus-client-c.git"
+    },
+    "frameworks": "espidf",
+    "platforms": "espressif32",
+    "build": {
+        "scrDir": "./prom/src",
+        "includeDir": "./prom/include"
+    }
+  }
+  
